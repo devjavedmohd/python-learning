@@ -1,5 +1,3 @@
-# from replit import clear
-
 bids = {}
 bidding_finished = False
 
