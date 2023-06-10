@@ -19,7 +19,6 @@ game_should_continue = True
 account_b = random.choice(data)
 
 while game_should_continue:
-
     def check_answer(guess, a_followers, b_followers):
         """ Use if statement to check if user"""
         if a_followers > b_followers:
